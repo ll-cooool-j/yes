@@ -1,9 +1,4 @@
 ## ĐÀM VĨNH HƯNG :+1:
-
-You can use the [editor on GitHub](https://github.com/ll-cooool-j/yes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Lâu đài tình ái
 
 Anh sẽ vì em làm thơ tình ái.
@@ -13,29 +8,4 @@ Anh sẽ gom mây kết hình lâu đài.
 Đợi một lần không gian đổi mới
 Đón hai đứa chúng ta mà thôi...
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image]()
-```
 ![Image](https://taimeme.com/public/upload/memes/dam-vinh-hung-co-mai-toc-dai-nhu-con-gai.jpg)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ll-cooool-j/yes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
