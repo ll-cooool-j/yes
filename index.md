@@ -28,9 +28,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://taimeme.com/public/upload/memes/dam-vinh-hung-co-mai-toc-dai-nhu-con-gai.jpg)
+[Link](url) and ![Image]()
 ```
-
+![Image](https://taimeme.com/public/upload/memes/dam-vinh-hung-co-mai-toc-dai-nhu-con-gai.jpg)
 
 ### Jekyll Themes
 
